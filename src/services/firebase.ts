@@ -44,13 +44,13 @@ import { PendingUpload, SharedPhoto } from '../types';
 import { downloadPhoto } from './camera';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyC1W4iHsSCscMDf1_rJE4xTbmVdO1Q6-FU',
-  authDomain: 'this-is-us-9890f.firebaseapp.com',
-  projectId: 'this-is-us-9890f',
-  storageBucket: 'this-is-us-9890f.firebasestorage.app',
-  messagingSenderId: '645094215219',
-  appId: '1:645094215219:web:0ff48b3fa8e8a2a4bd9d46',
-  measurementId: 'G-PMLJH4MBB9'
+  apiKey: '*',
+  authDomain: 't*',
+  projectId: '*',
+  storageBucket: 't*p',
+  messagingSenderId: '*',
+  appId: '*',
+  measurementId: '*'
 };
 
 const EXPIRATION_WINDOW_MS = 24 * 60 * 60 * 1000;
