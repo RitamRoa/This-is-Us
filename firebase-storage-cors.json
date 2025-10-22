@@ -1,0 +1,13 @@
+[
+  {
+    "origin": [
+      "http://localhost:5173",
+      "https://df80zt9l-5173.inc1.devtunnels.ms",
+      "capacitor://localhost",
+      "ionic://localhost"
+    ],
+    "method": ["GET", "HEAD", "PUT", "POST"],
+    "responseHeader": ["Content-Type", "x-goog-meta-uid"],
+    "maxAgeSeconds": 3600
+  }
+]

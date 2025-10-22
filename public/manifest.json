@@ -1,0 +1,29 @@
+{
+  "name": "This is Us",
+  "short_name": "This is Us",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "description": "Private couple photo sharing app",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Send Photo",
+      "url": "/?intent=send",
+      "description": "Jump straight to the camera"
+    },
+    {
+      "name": "View Today",
+      "url": "/?intent=today",
+      "description": "See today's shared memories"
+    }
+  ]
+}
